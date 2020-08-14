@@ -14,6 +14,9 @@ namespace TestingRefQuiz
 
             test1 = "testingHello3";
             test2 = "testingHello24";
+            
+            //Please verify the below Outputs before running 
+            //Don't cheat
             Console.WriteLine(test1);
             Console.WriteLine(test2);
             Console.WriteLine(testString.testing);

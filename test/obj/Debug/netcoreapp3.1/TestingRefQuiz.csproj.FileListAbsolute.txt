@@ -1,0 +1,10 @@
+C:\Users\nitessharma\source\repos\test\test\bin\Debug\netcoreapp3.1\TestingRefQuiz.exe
+C:\Users\nitessharma\source\repos\test\test\bin\Debug\netcoreapp3.1\TestingRefQuiz.deps.json
+C:\Users\nitessharma\source\repos\test\test\bin\Debug\netcoreapp3.1\TestingRefQuiz.runtimeconfig.json
+C:\Users\nitessharma\source\repos\test\test\bin\Debug\netcoreapp3.1\TestingRefQuiz.runtimeconfig.dev.json
+C:\Users\nitessharma\source\repos\test\test\bin\Debug\netcoreapp3.1\TestingRefQuiz.dll
+C:\Users\nitessharma\source\repos\test\test\bin\Debug\netcoreapp3.1\TestingRefQuiz.pdb
+C:\Users\nitessharma\source\repos\test\test\obj\Debug\netcoreapp3.1\TestingRefQuiz.AssemblyInfoInputs.cache
+C:\Users\nitessharma\source\repos\test\test\obj\Debug\netcoreapp3.1\TestingRefQuiz.AssemblyInfo.cs
+C:\Users\nitessharma\source\repos\test\test\obj\Debug\netcoreapp3.1\TestingRefQuiz.dll
+C:\Users\nitessharma\source\repos\test\test\obj\Debug\netcoreapp3.1\TestingRefQuiz.pdb
